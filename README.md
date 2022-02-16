@@ -17,6 +17,7 @@ The project contains 3 shaders:
 # Demos
 
 ![URP](https://github.com/sodes-proxy/advanced-computer-graphics-project/blob/main/sources/Final%20Project%20ACG%20Demo.gif)
+
 Any comment or inconvience you can send me an email, to check what's wrong.
 
 have fun!
